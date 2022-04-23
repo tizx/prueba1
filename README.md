@@ -12,4 +12,6 @@ Repositorio de prueba para comandos de git
 
 :+1:
 
-Link del Proyecto:[Aula Virtual] (https://campusvirtual.ucc.edu.ar/course/view.php?id=6694)
+:octocat:
+
+Link del Proyecto:  [Aula Virtual] (https://campusvirtual.ucc.edu.ar/course/view.php?id=6694)
